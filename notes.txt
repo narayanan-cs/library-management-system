@@ -1,0 +1,20 @@
+library-composite
+building
+location
+founder
+founding year
+floors
+reading rooms
+
+
+librarian - id
+readers/customers - registration - card
+books--isbn
+inventory
+
+functionality
+readers come and register and get cards and become customers/members
+They take books home 
+They read in library
+Books have an inventory-number present, new supply, old/torn books sale/disposal.
+
